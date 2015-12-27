@@ -1,0 +1,7 @@
+Topics to research and possibly use for my website:
+--S3 (no access to server side scripting) http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
+--Glacier for backups
+--Route 53
+--Digital Ocean (cheap server)
+--Google App Engine (free, no access to server)
+--Consumer Reports top 10 website hosting sites: http://www.consumer-rankings.com/hosting/?vn=lp3-hostingstep-fbs&a=148&c=2968&s1=150257785.146192861&agid=6917778363&s4=c&ls=g&gclid=CK7zu5aV-MkCFQotHwodY6sIyQ
